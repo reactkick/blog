@@ -1,0 +1,15 @@
+
+**`posts/react-ogreniyorum.md`**
+```markdown
+---
+title: 'React Öğrenme Serüvenim'
+date: '2023-10-28'
+author: 'Kadir SELÇUK'
+excerpt: 'React öğrenirken karşılaştığım zorluklar ve edindiğim tecrübeler üzerine.'
+---
+
+## React Dünyasına Giriş
+
+React, kullanıcı arayüzleri oluşturmak için kullanılan popüler bir JavaScript kütüphanesidir. Bileşen tabanlı yapısı sayesinde kod tekrarını önler ve yönetimi kolaylaştırır.
+
+State ve props kavramlarını anlamak başlangıçta biraz zorlayıcı olabilir ama pratik yaptıkça her şey yerine oturuyor.
